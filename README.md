@@ -5,23 +5,22 @@ I am a third year Information Systems student with a profound interest in techno
 
 ## Objective
 
-My journey in Information Systems has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC).
+My journey in Information Systems has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Logging Tool to Analyse Network Traffic Using TCPDump          | <a href="https://google.com">Detection Lab</a>|
-| Ubuntu Server Hardening | <a href="https://google.com">Ubuntu Server Hardening</a>|
-| palceholder         | SOC Automation Lab|
-| placeholder      | SOC Automation Lab|
-| placeholder                  | SOC Automation Lab|
-| placeholder | SOC Automation Lab|
+| Logging Tool to Analyse Network Traffic Using TCPDump          | <a href="/">WIP</a>|
+| Ubuntu Server Hardening | <a href="https://github.com/TomerZaibert/Ubuntu-Server-Hardening">Ubuntu Server Hardening</a>|
+| palceholder         | Placeholder|
+| placeholder      | Placeholder|
+| placeholder                  | Placeholder|
+| placeholder | Placeholder|
 
 ## Tools
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-tcpdump-00599C?&style=for-the-badge&logo=tcpdump&logoColor=white" />
+   
     
 </div>
 
