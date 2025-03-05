@@ -12,7 +12,7 @@ My journey in Information Systems has led me to develop a passion for cybersecur
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Logging Tool to Analyse Network Traffic Using TCPDump          | <a href="/">WIP</a>|
-| Ubuntu Server Hardening | <a href="https://github.com/TomerZaibert/Ubuntu-Server-Hardening">Ubuntu Server Hardening</a>|
+| Web Server Hardening | <a href="https://github.com/TomerZaibert/Ubuntu-Server-Hardening">Web Server Hardening</a>|
 | palceholder         | Placeholder|
 | placeholder      | Placeholder|
 | placeholder                  | Placeholder|
