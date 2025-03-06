@@ -7,23 +7,14 @@ I am a third year Information Systems student with a profound interest in techno
 
 My journey in Information Systems has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
-## Skills
+## Projects
 
-| Skill                                         | Associated Project         |
+| Project                                         | Link         |
 |-----------------------------------------------|----------------------------|
 | Logging Tool to Analyse Network Traffic Using TCPDump          | <a href="/">WIP</a>|
 | Web Server Hardening | <a href="https://github.com/TomerZaibert/Web-Server-Hardening">Web Server Hardening</a>|
-| palceholder         | Placeholder|
+| Network Scanner         |  <a href="/">Network Scanner</a>|
 | placeholder      | Placeholder|
 | placeholder                  | Placeholder|
 | placeholder | Placeholder|
 
-## Tools
-<div>
-   
-    
-</div>
-
-## Projects
-- Logging Tool to Analyse Network Traffic Using TCPDump
-- Ubuntu Server Hardening
