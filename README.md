@@ -13,7 +13,7 @@ My journey in Information Systems has led me to develop a passion for cybersecur
 |-----------------------------------------------|----------------------------|
 | Logging Tool to Analyse Network Traffic Using TCPDump          | <a href="/">WIP</a>|
 | Web Server Hardening | <a href="https://github.com/TomerZaibert/Web-Server-Hardening">Web Server Hardening</a>|
-| Network Scanner         |  <a href="/">https://github.com/TomerZaibert/Network-Scanner</a>|
+| Network Scanner         |  <a href="https://github.com/TomerZaibert/Network-Scanner">Python Network Scanner</a>|
 | placeholder      | Placeholder|
 | placeholder                  | Placeholder|
 | placeholder | Placeholder|
